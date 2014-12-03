@@ -6,6 +6,11 @@
 
 package studentregistratiesysteem;
 
+import java.math.BigDecimal;
+import java.util.ArrayList;
+import org.hibernate.Query;
+import org.hibernate.Session;
+
 /**
  *
  * @author 11627
@@ -16,7 +21,8 @@ public class StudentRegistratieSysteem {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        
     }
     
 }
